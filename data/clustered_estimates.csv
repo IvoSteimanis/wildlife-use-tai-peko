@@ -1,0 +1,4 @@
+measure,asked_of,n,share_pct,ci_low_pct,ci_high_pct,method
+Bushmeat consumption,households,589,71.0,60.9,79.7,"pairs cluster bootstrap over 36 villages, 999 reps, percentile"
+Any secondary use,all respondents,649,86.6,80.5,91.7,"pairs cluster bootstrap over 36 villages, 999 reps, percentile"
+Totemic species in the family,households,589,84.7,76.7,92.0,"pairs cluster bootstrap over 36 villages, 999 reps, percentile"

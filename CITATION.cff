@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: If you use these data or code, please cite the associated article.
+title: >-
+  Replication data and code for: Multidimensional wildlife use in communities surrounding Taï and Mont Péko National Parks, Côte d'Ivoire
+type: dataset
+authors:
+  - family-names: Gagbe
+    given-names: Boris Gagbé
+  - family-names: Kouakou
+    given-names: Yao Célestin
+  - family-names: Tiécoura
+    given-names: Yao Alban Fernand
+  - family-names: Monket
+    given-names: Ange Edgar Habib
+  - family-names: Beda
+    given-names: Alex Ange
+  - family-names: Steimanis
+    given-names: Ivo
+  - family-names: Fokou
+    given-names: Gilbert
+  - family-names: Lagostina
+    given-names: Lorenzo
+  - family-names: Vollan
+    given-names: Bjoern
+  - family-names: Kühl
+    given-names: Hjalmar S.
+license: CC-BY-4.0
+date-released: 2026-11-19

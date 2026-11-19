@@ -1,0 +1,24 @@
+scientific_name,field,printed,corrected,note
+Corythaeola cristata,order,Piciformes,Musophagiformes,"Ramphastidae (toucans) are exclusively Neotropical and do not occur in Africa; the great blue turaco is Musophagiformes / Musophagidae"
+Corythaeola cristata,family,Ramphastidae,Musophagidae,"see above; this row and Numida meleagris appear to have had their order and family fields swapped"
+Numida meleagris,order,Musophagiformes,Galliformes,"the helmeted guineafowl is Galliformes / Numididae"
+Numida meleagris,family,Musophagidae,Numididae,see above
+Dendrohyrax arboreus,order,Artiodactyles,Hyracoidea,"hyraxes are Hyracoidea; the family given (Procaviidae) is already correct, which is what makes the order an evident slip"
+Procavia capensis,order,Artiodactyles,Hyracoidea,see above
+Hypsignathus monstrosus,family,Rinolophidae,Pteropodidae,"the hammer-headed fruit bat is Pteropodidae; Rhinolophidae are insectivorous horseshoe bats, and the printed spelling is also wrong"
+Cricetomys gambianus,family,Cricetidae,Nesomyidae,giant pouched rats are Nesomyidae
+Thryonomys swinderianus,family,Tryonomidae,Thryonomyidae,spelling
+Pan troglodytes verus,family,Homonidae,Hominidae,spelling
+Osteolaenus tetraspis,scientific_name,Osteolaenus tetraspis,Osteolaemus tetraspis,spelling
+Rodent,order_language,Rodent,Rodentia,French order name
+Chiropters,order_language,Chiropters,Chiroptera,French order name
+Pholidotes,order_language,Pholidotes,Pholidota,French order name
+Proboscidiens,order_language,Proboscidiens,Proboscidea,French order name
+Artiodactyles,order_language,Artiodactyles,Artiodactyla,French order name
+Carnivores,order_language,Carnivores,Carnivora,French order name
+Crocodiliens,order_language,Crocodiliens,Crocodylia,French order name
+Sauriens,order_language,Sauriens,Squamata,"Sauria is a suborder of Squamata, not an order; merging with Ophidiens changes the order count"
+Ophidiens,order_language,Ophidiens,Squamata,"Ophidia is a suborder of Squamata, not an order; merging with Sauriens changes the order count"
+Anoures,order_language,Anoures,Anura,French order name
+Stylommatophores,order_language,Stylommatophores,Stylommatophora,French order name
+Achatina achatina,family,Gastropodidae,Achatinidae,Gastropodidae is not a valid family for this snail; the giant African land snail is Achatinidae. Confirmed against GBIF 2026-08-19. This row was wrong in the corrected column as well as the printed one.

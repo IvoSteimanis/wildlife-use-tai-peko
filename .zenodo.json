@@ -1,0 +1,46 @@
+{
+  "title": "Replication data and code for: Multidimensional wildlife use in communities surrounding Taï and Mont Péko National Parks, Côte d'Ivoire",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Gagbe, Boris Gagbé"
+    },
+    {
+      "name": "Kouakou, Yao Célestin"
+    },
+    {
+      "name": "Tiécoura, Yao Alban Fernand"
+    },
+    {
+      "name": "Monket, Ange Edgar Habib"
+    },
+    {
+      "name": "Beda, Alex Ange"
+    },
+    {
+      "name": "Steimanis, Ivo"
+    },
+    {
+      "name": "Fokou, Gilbert"
+    },
+    {
+      "name": "Lagostina, Lorenzo"
+    },
+    {
+      "name": "Vollan, Bjoern"
+    },
+    {
+      "name": "Kühl, Hjalmar S."
+    }
+  ],
+  "description": "Village-level and species-level data and the code reproducing the regressions, robustness checks and Figures 2, 4, 5 and S1 of the associated article. Respondent-level data, village names and coordinates are not included; see README.md.",
+  "keywords": [
+    "wildlife use",
+    "bushmeat",
+    "ethnozoology",
+    "protected areas",
+    "Côte d'Ivoire"
+  ]
+}
