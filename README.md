@@ -1,5 +1,7 @@
 # Replication data and code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24368814.svg)](https://doi.org/10.5281/zenodo.24368814)
+
 **Multidimensional wildlife use in communities surrounding Taï and Mont Péko National Parks, Côte d'Ivoire**
 
 Boris Gagbé Gagbe, Yao Célestin Kouakou, Yao Alban Fernand Tiécoura, Ange Edgar Habib Monket, Alex Ange Beda, Ivo Steimanis, Gilbert Fokou, Lorenzo Lagostina, Bjoern Vollan, Hjalmar S. Kühl
@@ -41,6 +43,10 @@ neither are village names or coordinates. For this reason the package does not r
 Figure 1 (map of the study villages), Figure 3 (photographs), Figure S3 (species
 accumulation) and the tests in Tables S9 and S12, which need respondent-level data;
 the published estimates of Tables S5, S6 and S11 are provided as aggregates.
+
+## Citation
+
+Please cite the associated article and this archive: https://doi.org/10.5281/zenodo.24368814 (all versions).
 
 ## Licence
 
